@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Server or website bug, question, or feature request
+    url: https://github.com/SchemaFoxLabs/AnchorMC/issues/new/choose
+    about: Use the main repository for product feedback, rather than player reports or appeals.
+  - name: Report a security vulnerability privately
+    url: https://github.com/SchemaFoxLabs/AnchorMC/security
+    about: Select Report a vulnerability. If unavailable, ask only about an appropriate reporting method; do not publish exploit details.
